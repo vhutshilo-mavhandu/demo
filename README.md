@@ -33,7 +33,7 @@ Follow the process described in the course to `eb init` a new application and `e
 
 ### Elastic beanstack Endpoint
 
-http://node-dev2.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://images.pexels.com/photos/13025002/pexels-photo-13025002.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load
+http://imagefilter-dev2.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://images.pexels.com/photos/13025002/pexels-photo-13025002.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load
 
 
 ## Stand Out (Optional)
